@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(profileimg/background.png);
+    background-image: url(profileimg/black.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -306,7 +306,7 @@ display: none;
    /* ------------------css for small screens-------------- */
    @media only screen and (max-width :600px){
 #header{
-    background-image: url(profileimg/phone-background.png);
+    background-image: url(profileimg/black.jpg);
 }
 .header-text{
     margin-top: 100%;
